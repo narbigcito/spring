@@ -23,7 +23,7 @@ import mx.sisu.challengeajax.dto.Ciudad;
 import mx.sisu.challengeajax.dto.DatosUsuario;
 import mx.sisu.challengeajax.dto.Estado;
 import mx.sisu.challengeajax.dto.Pais;
-import mx.sisu.challengueajax.entities.Usuario;
+import mx.sisu.challengeajax.entities.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 
 @RestController

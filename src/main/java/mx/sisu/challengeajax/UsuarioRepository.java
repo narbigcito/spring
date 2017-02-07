@@ -2,7 +2,7 @@
 package mx.sisu.challengeajax;
 
 
-import mx.sisu.challengueajax.entities.Usuario;
+import mx.sisu.challengeajax.entities.Usuario;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
